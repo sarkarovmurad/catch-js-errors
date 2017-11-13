@@ -1,5 +1,5 @@
 {
-  "name": "jquery.catch-js-errors",
+  "name": "catch-js-errors",
   "version": "0.0.1",
   "description": "Плагин для отправки лога ошибок в браузере на сервер",
   "main": "index.js",
