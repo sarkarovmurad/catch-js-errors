@@ -4,5 +4,5 @@
 ## Установка:
 
 ```
-npm install catch-js-errors
+npm install jquery.catch-js-errors
 ```
