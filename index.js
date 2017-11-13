@@ -1,6 +1,6 @@
 'use strict';
 
-$(document).ready(function($) {
+module.exports = function() {
 
 
 	// Определение браузера
@@ -150,5 +150,4 @@ $(document).ready(function($) {
 	});
 
 
-
-});
+};
