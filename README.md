@@ -60,7 +60,6 @@ jQuery не используется, поэтому скрипт можно с�
 Ещё стоит отметить, что для того, чтобы корректно принимать данные на удалённом сервере, он должен быть настроен соответствующим образом.
 На эту тему есть полезные статьи:
 
-[http://javascript.ru/ajax/cross-domain-scripting](http://javascript.ru/ajax/cross-domain-scripting)
-[http://javascript.ru/ajax/cross-origin-2](http://javascript.ru/ajax/cross-origin-2)
+[http://javascript.ru/ajax/cross-domain-scripting](http://javascript.ru/ajax/cross-domain-scripting), [http://javascript.ru/ajax/cross-origin-2](http://javascript.ru/ajax/cross-origin-2)
 
 
