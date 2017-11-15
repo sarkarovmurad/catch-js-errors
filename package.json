@@ -1,28 +1,4 @@
 {
-  "_from": "catch-js-errors",
-  "_id": "catch-js-errors@0.0.1",
-  "_inBundle": false,
-  "_integrity": "sha1-X1WD400czkSn431Ia09gqKtbCwQ=",
-  "_location": "/catch-js-errors",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "catch-js-errors",
-    "name": "catch-js-errors",
-    "escapedName": "catch-js-errors",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/catch-js-errors/-/catch-js-errors-0.0.1.tgz",
-  "_shasum": "5f5583e34d1cce44a7e37d486b4f60a8ab5b0b04",
-  "_spec": "catch-js-errors",
-  "_where": "/var/www/argun/data/www/argun.su/local/static",
   "author": {
     "name": "Murad Sarkarov"
   },
@@ -44,5 +20,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.1.03"
+  "version": "1.0.0"
 }
