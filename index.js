@@ -122,7 +122,7 @@ window.addEventListener('error', function (e) {
 			   '&browser_version=' + encodeURIComponent(BrowserDetect.version) +
 			   '&os=' + encodeURIComponent(BrowserDetect.OS);
 
-	xhr.open('POST', 'http://error-listener.w6p.ru', true);
+	xhr.open('POST', 'https://error-listener.w6p.ru', true);
 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 	xhr.send(body);
 
