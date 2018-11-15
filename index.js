@@ -115,7 +115,7 @@ window.addEventListener('error', function (e) {
 	// Формирование строки собранных данных и отправка на сервер
 	// =========================================================
 	var xhr = new XMLHttpRequest();
-	var body = 'message=' + encodeURIComponent(e.message) +
+	var body = 'message=' + encodeURIComponent(e.error.stack) +
 			   '&file=' + encodeURIComponent(e.filename) +
 			   '&site=' + encodeURIComponent(location.protocol + "//" + location.host) +
 			   '&browser=' + encodeURIComponent(BrowserDetect.browser) +
